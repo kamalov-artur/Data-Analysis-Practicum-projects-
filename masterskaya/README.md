@@ -1,3 +1,8 @@
+**Ссылка на Colab для просмотра интерактивных визуализаций:**
+
+https://colab.research.google.com/drive/1TCOZCwoRP2dPxb3jCUZCBANmR2Q04icP?usp=sharing
+
+
 **Название проекта:**
 
 Исследование вакансий hh.ru для аналитиков данных и бизнес аналитиков
